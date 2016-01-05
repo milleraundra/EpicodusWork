@@ -1,0 +1,18 @@
+h1 {
+  color: red;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+li{
+  line-height: 70px;
+  font-size: 55px;
+}
+p{
+  color: purple;
+  font-weight: bold;
+}
