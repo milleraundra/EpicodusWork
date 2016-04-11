@@ -2,10 +2,10 @@
 
 #### Jan, 4 2016
 
-#### By _**Megan, Adamm, and Aundra**_
+#### By _**Megan, Adam, and Aundra**_
 
 ## Description
-Basic pages to practice using HTML. 
+Basic pages to practice using Git, HTML and CSS. Git was initiated in the wrong folder, so multiple folders containing different projects are all present here.
 
 
 ## Support and contact details
@@ -15,6 +15,7 @@ If you have any questions, comments, or suggestions, contact me directly at mill
 ## Technologies Used
 
 * HTML
+* CSS
 
 ### License
 
